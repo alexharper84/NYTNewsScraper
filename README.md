@@ -1,2 +1,2 @@
 # NYTNewsScraper
-A web scraper that renders and saves articles from New York Times
+A REACT based web scraper that renders and saves articles from New York Times
